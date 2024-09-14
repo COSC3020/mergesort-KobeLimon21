@@ -20,7 +20,7 @@ https://www.youtube.com/watch?v=BEw8ifxN8zM - explain mergesort
 
 https://github.com/COSC3020/mergesort-AaronATM/blob/main/code.js
 
-used for inspiration in the implemenation of the merge function as I was very lost 
+used for inspiration in the implemenation of the merge function as I was very lost how to do non recursively
 
 TA Ali - helped me break down the first "half" of the repo above
 
